@@ -44,10 +44,10 @@ https://www.kaggle.com/jruvika/fake-news-detection
 Everyone participated in Data Preprocessing and fake news detection master file.
 
 **Project links:**<br>
-Master Notebook: https://colab.research.google.com/drive/1XUkF7leYm_8QIpUCfz6HM7-TWDKbegRf#scrollTo=dPZUbRpq4_0v<br>
-Factor Models: https://github.com/manojknit/MachineLearningModels/tree/master/NLP_FakeNews<br>
-Datasets: https://github.com/manojknit/MachineLearningModels/tree/master/dataset <br>
-Data Enrichment code: https://github.com/manojknit/MachineLearningModels/tree/master/DataEnrich <br>
+Master Notebook: [ https://colab.research.google.com/drive/1XUkF7leYm_8QIpUCfz6HM7-TWDKbegRf ] 
+Models: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/NLP_FakeNews ] 
+Datasets: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/dataset ] 
+Data Enrichment code: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/DataEnrich ] 
 
 ## Project Journey
 
@@ -87,3 +87,4 @@ Once the dataset was sufficiently enriched, we tried executing a couple of machi
 1. Any sophisticated approach to identify fake news uses **"NLP"** techniques. We as a team didn't have much knowledge on NLP at the time so we put this on hold.
 2. Also, the data didn't have many numerical columns that could be used for many classification algorithms. We were not familiar with **"Vectorization"** techniques which could use a piece of text transformed into a **"bag-of-words"**.
 
+Note: Big datasets are not available in git. Please download from internet.
