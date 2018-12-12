@@ -1,5 +1,5 @@
 ## Objective:
-In this notebook, we will classify fake news on the basis of several factors. Each factor will be trained against the separately related dataset. Later these trained models will be used to predict against master dataset and added as a column in order to predict fakeness.<br>
+Fake news on the basis of several factors. Each factor will be trained against the separately related dataset. Later these trained models will be used to predict against master dataset and added as a column in order to predict fakeness.<br>
 
 High level a polynomial equation to predict is <br>
 
