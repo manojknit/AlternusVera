@@ -44,10 +44,10 @@ https://www.kaggle.com/jruvika/fake-news-detection
 Everyone participated in Data Preprocessing and fake news detection master file.
 
 **Project links:**<br>
-Master Notebook: [ https://colab.research.google.com/drive/1XUkF7leYm_8QIpUCfz6HM7-TWDKbegRf ] 
-Models: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/NLP_FakeNews ] 
-Datasets: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/dataset ] 
-Data Enrichment code: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/DataEnrich ] 
+Master Notebook: [ https://colab.research.google.com/drive/1XUkF7leYm_8QIpUCfz6HM7-TWDKbegRf ] <br>
+Models: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/NLP_FakeNews ]  <br>
+Datasets: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/dataset ]  <br>
+Data Enrichment code: [ https://github.com/manojknit/AlternusVera/tree/master/SigmoidTeam/DataEnrich ]  <br>
 
 ## Project Journey
 
